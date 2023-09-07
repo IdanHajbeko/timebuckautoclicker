@@ -1,0 +1,6 @@
+pyautogui
+time
+os
+requests
+beautifulsoup4
+socket
