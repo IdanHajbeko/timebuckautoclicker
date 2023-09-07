@@ -5,15 +5,6 @@ import requests
 from bs4 import BeautifulSoup
 import socket
 
-
-print(os.system('ipconfig'))
-hostname = socket.gethostname()
-IPAddr = socket.gethostbyname(hostname)
-
-print(hostname)
-print(IPAddr)
-
-
 url = 'https://www.youtube.com/watch?v=6POZlJAZsok&list=PLw_4bxaqWDlYT0vOCxMrrYXIfonbE9AOc&index=38'
 
 
